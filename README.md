@@ -2,6 +2,8 @@
 
 My name is Jonathan Kamau and I am a Software Engineer and Data Engineer. I have over three years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
 
+                                        [More about Me](http://jonathankamau.com/)     |       [Linkedin](https://www.linkedin.com/in/kamaujonathan/)       |      
+
 ## I am proficient in the following Languages/Frameworks/Technologies:
 
 - <strong>Programming Languages:</strong> Python and Javascript
